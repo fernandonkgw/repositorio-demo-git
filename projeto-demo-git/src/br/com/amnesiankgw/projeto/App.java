@@ -1,5 +1,8 @@
 package br.com.amnesiankgw.projeto;
 
+/**
+ * Comentário pelo github
+ * /
 public class App {
 
 	public static void main(String[] args) {
